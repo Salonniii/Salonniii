@@ -1,65 +1,78 @@
 <h1 align="center">Hi 👋, I'm Saloni Gupta</h1>
-<h3 align="center">Computer Science Engineering Student | Android Developer | AI Enthusiast</h3>
+
+<h3 align="center">
+Computer Science Engineering Student • Android Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Android+Developer;AI+%26+ML+Enthusiast;Java+%7C+Spring+Boot+%7C+Kotlin;Building+Modern+Mobile+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Android+Developer;AI+%26+ML+Enthusiast;Java+%7C+Kotlin+%7C+Spring+Boot;Building+Modern+Mobile+Applications" />
 </p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
+<img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-00C2CB?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 About Me
 
 🎓 B.Tech CSE Student at **Banasthali Vidyapith**  
-💡 Passionate about **Android Development, AI/ML, and Backend Development**  
-📱 Building modern Android applications using **Java, Kotlin & Spring Boot**  
-⚡ Love creating clean UI/UX and real-world projects  
+
+📱 Passionate about **Android Development, AI/ML & Backend Development**  
+
+⚡ Building modern mobile applications using **Java, Kotlin & Spring Boot**  
+
+🎨 Love creating clean UI/UX and real-world projects  
+
 🌱 Currently learning **Advanced Android Development & AI Integration**
 
 ---
 
-## 🛠️ Tech Stack
-### 💻 Languages
-- Java
-- Kotlin
-- C++
-- JavaScript
-- SQL
+# 🛠️ Tech Stack
 
-### 📱 Android Development
-- Android Studio
-- XML
-- Jetpack Components
-- RecyclerView
-- Material UI
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,mysql,postgresql"/>
+</p>
 
-### 🌐 Backend & Database
-- Spring Boot
-- MySQL
-- PostgreSQL
+## 📱 Android Development
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase"/>
+</p>
 
-### 🤖 AI & Development Tools
-- Claude AI
-- Cursor AI
-- GitHub Copilot
+## 🌐 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring"/>
+</p>
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Firebase
-- Render
-- VS Code
-- Postman
+## 🤖 AI & Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
+</p>
+
+- Claude AI  
+- Cursor AI  
+- GitHub Copilot  
+
+---
 
 # 📌 Featured Projects
 
 ## ☕ CafeBrew Android
-Modern coffee ordering Android application with elegant UI/UX.
+Modern Android coffee ordering application with elegant UI/UX.
 
 ### Features
-- Coffee Menu UI
-- Cart System
+- Coffee Ordering UI
+- Cart Management
 - Order Summary
 - Smooth Navigation
-- Modern Design
+- Modern Material Design
 
 🔗 Repository:  
 https://github.com/Salonniii/CafeBrewAndroid
@@ -67,14 +80,14 @@ https://github.com/Salonniii/CafeBrewAndroid
 ---
 
 ## ⚽ LaLiga Android
-Football standings and stats Android application inspired by La Liga.
+Modern football standings application inspired by La Liga.
 
 ### Features
 - Team Rankings
 - Match Standings
 - Interactive UI
-- Modern Cards Layout
-- Football Club Logos
+- Club Logos
+- Modern Card Design
 
 🔗 Repository:  
 https://github.com/Salonniii/LaLigaAndroid
@@ -82,14 +95,14 @@ https://github.com/Salonniii/LaLigaAndroid
 ---
 
 ## 🧠 CompressoIQ
-AI-powered Photo & Document Compressor application.
+AI-powered Photo & Document Compressor Application.
 
 ### Features
-- Image Compression
+- Smart Image Compression
 - PDF Compression
-- Spring Boot Backend
 - Android Frontend
-- Smart Optimization
+- Spring Boot Backend
+- AI-based Optimization
 
 🔗 Backend Repository:  
 https://github.com/Salonniii/CompressoIQ-Backend
@@ -99,38 +112,38 @@ https://github.com/Salonniii/CompressoIQ-Android
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salonniii&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salonniii&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Salonniii&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salonniii&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salonniii&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salonniii&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/saloni-gupta4/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:your-email@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-✨ “Turning ideas into real-world Android applications.” ✨
+✨ <b>Turning ideas into impactful Android applications.</b> ✨
 </p>
