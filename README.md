@@ -113,13 +113,12 @@ https://github.com/Salonniii/CompressoIQ-Backend
 https://github.com/Salonniii/CompressoIQ-Android
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Salonniii&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Salonniii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salonniii&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Salonniii&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -129,8 +128,6 @@ https://github.com/Salonniii/CompressoIQ-Android
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salonniii&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 # 🌐 Connect With Me
 
