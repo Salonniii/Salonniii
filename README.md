@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saloni Gupta</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • Android Developer • AI Enthusiast
+Computer Science Engineering Student • Android Developer • Backend Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Android+Developer;AI+%26+ML+Enthusiast;Java+%7C+Kotlin+%7C+Spring+Boot;Building+Modern+Mobile+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Android+Developer;Backend+Developer;Java+%7C+Kotlin+%7C+Spring+Boot;Building+Modern+Mobile+Applications;AI-Powered+Application+Integration" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ Computer Science Engineering Student • Android Developer • AI Enthusiast
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-00C2CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Development-0A66C2?style=for-the-badge"/>
 </p>
 
 ---
@@ -24,13 +24,15 @@ Computer Science Engineering Student • Android Developer • AI Enthusiast
 
 🎓 B.Tech CSE Student at **Banasthali Vidyapith**  
 
-📱 Passionate about **Android Development, AI/ML & Backend Development**  
+📱 Passionate about **Android Development, Backend Development & Modern UI/UX**  
 
-⚡ Building modern mobile applications using **Java, Kotlin & Spring Boot**  
+⚡ Building scalable applications using **Java, Kotlin & Spring Boot**  
+
+🤖 Interested in integrating AI-powered features into modern applications  
 
 🎨 Love creating clean UI/UX and real-world projects  
 
-🌱 Currently learning **Advanced Android Development & AI Integration**
+🌱 Currently learning **Advanced Android Development & Backend Systems**
 
 ---
 
@@ -38,7 +40,7 @@ Computer Science Engineering Student • Android Developer • AI Enthusiast
 
 ## 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,mysql,postgresql"/>
 </p>
 
 ## 📱 Android Development
@@ -51,13 +53,13 @@ Computer Science Engineering Student • Android Developer • AI Enthusiast
 <img src="https://skillicons.dev/icons?i=spring"/>
 </p>
 
-## 🤖 AI & Development Tools
+## ⚙️ Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=github,vscode"/>
 </p>
 
-- Claude AI  
 - Cursor AI  
+- Claude AI  
 - GitHub Copilot  
 
 ---
@@ -145,5 +147,5 @@ https://github.com/Salonniii/CompressoIQ-Android
 ---
 
 <p align="center">
-✨ <b>Turning ideas into impactful Android applications.</b> ✨
+✨ <b>Building impactful Android applications with modern UI and backend integration.</b> ✨
 </p>
