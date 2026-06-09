@@ -66,6 +66,55 @@ Computer Science Engineering Student • Android Developer • Backend Developer
 
 # 📌 Featured Projects
 
+## 🤖 AICompanion
+
+A modern multi-model AI chatbot Android application built with **Kotlin, Jetpack Compose, Firebase, and OpenRouter API**.
+
+### Features
+
+* Multi-model AI support
+
+  * GPT-4o Mini
+  * Claude Haiku
+  * DeepSeek
+  * Llama 3.3
+
+* Secure Firebase Authentication
+
+* Real-time Chat History Management
+
+* Create, Rename, Pin & Delete Conversations
+
+* Temporary Chat Mode
+
+* Chat Sharing via Public Web Pages
+
+* Dark & Light Theme Support
+
+* Speech-to-Text Input
+
+* Modern Material 3 UI
+
+* Responsive Jetpack Compose Design
+
+* Firebase Firestore Cloud Storage
+
+* OpenRouter API Integration
+
+### Tech Stack
+
+* Kotlin
+* Jetpack Compose
+* Firebase Authentication
+* Firebase Firestore
+* OpenRouter API
+* Retrofit
+* Coroutines
+* Material 3
+
+🔗 Repository:
+https://github.com/Salonniii/AICompanion
+
 ## ☕ CafeBrew Android
 Modern Android coffee ordering application with elegant UI/UX.
 
