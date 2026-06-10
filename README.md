@@ -101,17 +101,6 @@ A modern multi-model AI chatbot Android application built with **Kotlin, Jetpack
 
 * OpenRouter API Integration
 
-### Tech Stack
-
-* Kotlin
-* Jetpack Compose
-* Firebase Authentication
-* Firebase Firestore
-* OpenRouter API
-* Retrofit
-* Coroutines
-* Material 3
-
 🔗 Repository:
 https://github.com/Salonniii/AICompanion
 
