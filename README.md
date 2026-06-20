@@ -40,12 +40,12 @@ Computer Science Engineering Student • Android Developer • Backend Developer
 
 ## 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,cpp,mysql,postgresql"/>
 </p>
 
 ## 📱 Android Development
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase"/>
 </p>
 
 ## 🌐 Backend
