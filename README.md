@@ -66,6 +66,32 @@ Computer Science Engineering Student • Android Developer • Backend Developer
 
 # 📌 Featured Projects
 
+## 🚀 Nexora — AI Powered Career Intelligence Dashboard
+
+A modern AI-powered career companion app built with **Flutter, Supabase, FastAPI, and Google Gemini AI**. Helps students track their coding profiles, get personalized career analysis, and follow AI-generated placement preparation roadmaps.
+
+### Features
+
+* AI Career Coach — "Nova" for career advice, placement strategy & doubt-solving
+
+* Real-time profile tracking — GitHub, LeetCode, GeeksforGeeks
+
+* AI-generated personalized 30-60-90 day placement roadmap
+
+* Secure Authentication via Supabase (Email + Google Sign-In)
+
+* Cross-platform — Android app & Web
+
+* Modern dark-themed, gradient-driven UI
+
+* FastAPI backend integrated with Google Gemini AI
+
+🌐 Live Website:
+https://magenta-tarsier-e6e74d.netlify.app
+
+🔗 Repository:
+https://github.com/Salonniii/nexora-app
+
 ## 🤖 AICompanion
 
 A modern multi-model AI chatbot Android application built with **Kotlin, Jetpack Compose, Firebase, and OpenRouter API**.
