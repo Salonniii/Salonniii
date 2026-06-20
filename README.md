@@ -92,6 +92,8 @@ https://magenta-tarsier-e6e74d.netlify.app
 🔗 Repository:
 https://github.com/Salonniii/nexora-app
 
+---
+
 ## 🤖 AICompanion
 
 A modern multi-model AI chatbot Android application built with **Kotlin, Jetpack Compose, Firebase, and OpenRouter API**.
@@ -130,6 +132,26 @@ A modern multi-model AI chatbot Android application built with **Kotlin, Jetpack
 🔗 Repository:
 https://github.com/Salonniii/AICompanion
 
+---
+
+## 🧠 CompressoIQ
+AI-powered Photo & Document Compressor Application.
+
+### Features
+- Smart Image Compression
+- PDF Compression
+- Android Frontend
+- Spring Boot Backend
+- AI-based Optimization
+
+🔗 Backend Repository:  
+https://github.com/Salonniii/CompressoIQ-Backend
+
+🔗 Android Repository:  
+https://github.com/Salonniii/CompressoIQ-Android
+
+---
+
 ## ☕ CafeBrew Android
 Modern Android coffee ordering application with elegant UI/UX.
 
@@ -157,24 +179,6 @@ Modern football standings application inspired by La Liga.
 
 🔗 Repository:  
 https://github.com/Salonniii/LaLigaAndroid
-
----
-
-## 🧠 CompressoIQ
-AI-powered Photo & Document Compressor Application.
-
-### Features
-- Smart Image Compression
-- PDF Compression
-- Android Frontend
-- Spring Boot Backend
-- AI-based Optimization
-
-🔗 Backend Repository:  
-https://github.com/Salonniii/CompressoIQ-Backend
-
-🔗 Android Repository:  
-https://github.com/Salonniii/CompressoIQ-Android
 
 ---
 
