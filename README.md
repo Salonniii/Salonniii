@@ -88,7 +88,7 @@ A modern AI-powered career companion app built with **Flutter, Supabase, FastAPI
 * FastAPI backend integrated with Google Gemini AI
 
 🌐 Live Website:
-https://magenta-tarsier-e6e74d.netlify.app
+https://magenta-tarsier-e6e74d.netlify.app/
 
 🔗 Repository:
 https://github.com/Salonniii/nexora-app
