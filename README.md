@@ -75,7 +75,7 @@ A modern AI-powered career companion app built with **Flutter, Supabase, FastAPI
 
 * AI Career Coach — "Nova" for career advice, placement strategy & doubt-solving
 
-* Real-time profile tracking — GitHub, LeetCode, GeeksforGeeks
+* Real-time profile tracking — GitHub, LeetCode
 
 * AI-generated personalized 30-60-90 day placement roadmap
 
